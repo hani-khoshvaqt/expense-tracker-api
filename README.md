@@ -3,7 +3,7 @@
 A simple REST API for tracking personal expenses, built with Flask and SQLite.
 
 ## Features
-- Add, List, and delete expenses
+- Add, list, and delete expenses
 - Spending summary (total and per category)
 - Input validation with clear error messages
 
